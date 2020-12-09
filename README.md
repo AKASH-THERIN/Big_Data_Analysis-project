@@ -18,7 +18,7 @@ Developer tips:
 
 ## starting the project
 
-step 1.Run `node service.js` or `nodemon service.js` in anew terminal for backend services
+step 1.Run `node service.js` or `nodemon service.js` in a new terminal for backend services
 step 2.Run `ng run proxy`  in another  terminal for frontend services
 
 
